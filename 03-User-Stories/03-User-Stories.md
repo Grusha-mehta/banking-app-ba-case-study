@@ -1,3 +1,10 @@
+The user stories and project progress tracking are managed using Jira. 
+
+**Project Board (Private Access):**
+[HelloBank App Enhancement - Jira Board] (https://grushamehta95.atlassian.net/jira/software/projects/HAE/boards/5)
+
+*Note: Jira board access is restricted to project collaborators.*
+
 ## EPIC [HAE-2]: Banking-App-Enhancement-Project
 Description: 
 
