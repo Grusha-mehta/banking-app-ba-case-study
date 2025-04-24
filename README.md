@@ -15,7 +15,7 @@ This case study defines the problem, documents requirements, and outlines a prop
 - '08-Meeting-Notes.md'- Hypothetical stakeholder meetings
 - '09-Summary-and-Reflections.md' - Learnings & BA insights
 ## Author
-[Grusha Mehta - Business System Analyst] 
-<br> [https://www.linkedin.com/in/grusha-mehta-97a22714b/]
+Grusha Mehta - Business System Analyst 
+<br> https://www.linkedin.com/in/grusha-mehta-97a22714b/
 
 
