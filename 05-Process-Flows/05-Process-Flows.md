@@ -4,7 +4,6 @@ This section includes the AS-IS and TO-BE flows for the card lock/unlock process
 
 ## TO-BE User Flow Diagram
 
-![Lock Card Flow](./lock-card-process-flow.png)
 
 - User navigates to Card section.
 
