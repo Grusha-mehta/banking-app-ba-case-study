@@ -11,3 +11,5 @@ These wireframes illustrate how the lock/unlock card feature could appear in the
 - Includes lock/unlock toggle
 - Provides real-time feedback
 - Includes a report button for unauthorised transactions or access
+
+*Note: The wireframes are created using Figma and images from the internet.*
