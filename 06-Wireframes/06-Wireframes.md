@@ -4,7 +4,7 @@ These wireframes illustrate how the lock/unlock card feature could appear in the
 
 ## Lock Card Screen
 
-![Lock Screen](./lock-card-screen.png)
+![Lock Screen](./Lock-card-screen.png)
 
 - Displays home screen
 - Displays current status
