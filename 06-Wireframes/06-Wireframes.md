@@ -10,4 +10,4 @@ These wireframes illustrate how the lock/unlock card feature could appear in the
 - Displays current status
 - Includes lock/unlock toggle
 - Provides real-time feedback
-
+- Includes a report button for unauthorised transactions or access
